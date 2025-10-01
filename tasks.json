@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Create Landing Page",
+    "description": "Design and develop a basic landing page for the website.",
+    "due_date": "2023-10-10",
+    "priority": "high",
+    "estimate_minutes": 240,
+    "tags": [
+      "website",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "title": "Develop Hero Content",
+    "description": "Craft engaging hero content to capture visitors' attention on the landing page.",
+    "due_date": "2023-10-10",
+    "priority": "medium",
+    "estimate_minutes": 120,
+    "tags": [
+      "content",
+      "engagement",
+      "landing page"
+    ]
+  },
+  {
+    "title": "Set Up Analytics",
+    "description": "Implement analytics tools to track website traffic and user behavior.",
+    "due_date": "2023-10-10",
+    "priority": "high",
+    "estimate_minutes": 60,
+    "tags": [
+      "analytics",
+      "tracking",
+      "website"
+    ]
+  },
+  {
+    "title": "Create Social Media Posts",
+    "description": "Prepare 3 engaging social media posts for each week of the campaign.",
+    "due_date": "2023-10-10",
+    "priority": "medium",
+    "estimate_minutes": 180,
+    "tags": [
+      "social media",
+      "content creation",
+      "engagement"
+    ]
+  }
+]
