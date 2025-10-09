@@ -10,7 +10,6 @@
 ---
 
 ## ✨ About the Project
-This is a **10-minute intermediate Python project** that leverages AI to generate a fully organized **to-do list** from a simple text description.  
 
 Instead of manually writing tasks, just describe your project — *“Build a landing page and launch a social media campaign in 2 weeks”* — and the script will return a structured list of tasks in **JSON format** with:
 - 📌 Titles  
